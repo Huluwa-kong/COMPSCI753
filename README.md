@@ -34,5 +34,27 @@ Part I: Construct LSH Hash Tables for All News Articles [40 pts]
 Part II: Nearest Neighbor Search [35 pts]
 Part III: Search Quality Evaluation [25 pts]
 
+
+## Assignment 2 Data Stream Algorithms
+
+Learning Objectives: The goal of this assignment is to investigate heavy hitters algorithms
+on a real-world dataset, which we have learnt during weeks 4-5.
+General Instruction:
+This core component in this assignment is to find frequent items on a data stream by
+investigating data stream algorithms, including Brute Force approach, Misra-Gries Summary,
+and Count Sketch algorithm. Please write a python program to complete the following
+components:
+- Part I: Brute Force Approach and Performance Evaluation
+- Part II: Miisra-Gries Approach and Performance Evaluation
+- Part III: Count Sketch Approach and Performance Evaluation
+
+Datasets:
+Let’s consider the Spotify playlists dataset, consisting of over 281,000 tracks. After loading the
+data (.json file), you will see that each playlist is detailed with: <name,num_holdouts,...,
+tracks,num_samples>, where tracks hold the details of each track/song in the playlist.
+You can find the data stream files, challenge.json on Canvas.
+...
+
+
 若您有关于此作业的任何需求，[本人主页](https://github.com/Huluwa-kong), 可添加vx：codingtutor 或者qq：122929048
 
