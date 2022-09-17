@@ -56,5 +56,16 @@ You can find the data stream files, challenge.json on Canvas.
 ...
 
 
+## Assignment problem 
+1 Assignment problem (100 pts)
+This assignment aims at exploring the PageRank algorithm on big real-world network data.
+By working on this assignment, you will learn how to implement the PageRank algorithms
+that we have learned in the class. Download the dataset1 'Google-web.txt' from the assign-
+ment page on Canvas. Each line of the le represents a directed edge from a source node
+to a destination node. Nodes are represented by IDs ranging from 0 to 875712.
+The assignment has the following tasks:
+....
+
+
 若您有关于此作业的任何需求，[本人主页](https://github.com/Huluwa-kong), 可添加vx：codingtutor 或者qq：122929048
 
